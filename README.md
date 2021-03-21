@@ -1,4 +1,6 @@
 # Ketowit - Voicebot
+Please visit https://devpost.com/software/ketowit-a-voice-based-keto-diet-assistant for more information on the project.
+
 ## Setup
 ### Clone
 ```
